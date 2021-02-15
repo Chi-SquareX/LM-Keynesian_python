@@ -1,4 +1,4 @@
-# Lm-Keynesian_python
+# LM-Keynesian_python
 The notebook displays: 
 1. Estimating Keynesian consumption functions
   > a. Using matrix operations
